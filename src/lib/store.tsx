@@ -316,3 +316,7 @@ export const useInfoLaw = () => {
   }
   return context;
 };
+
+export const LexiosProvider = InfoLawProvider;
+export const useLexios = useInfoLaw;
+

@@ -6,8 +6,8 @@ import { QuickViewDrawer } from '@/components/workspace/QuickViewDrawer';
 import { RoleSwitcherBar } from '@/components/workspace/RoleSwitcherBar';
 
 export const metadata: Metadata = {
-  title: 'InfoLaw | Sistema Integral Jurídico & Contable',
-  description: 'Plataforma integral de gestión profesional, portal de clientes y software operativo para estudios jurídicos y contables.',
+  title: 'Lexios | Sistema Integral Jurídico & Contable',
+  description: 'Plataforma integral de gestión para estudios jurídicos, contables y firmas multidisciplinarias - Lexios.',
 };
 
 export default function RootLayout({

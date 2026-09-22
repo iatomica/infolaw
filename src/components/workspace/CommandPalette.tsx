@@ -250,7 +250,7 @@ export const CommandPalette: React.FC = () => {
           </div>
           <div className="flex items-center gap-1.5 font-mono text-amber-700">
             <Sparkles size={12} />
-            <span>InfoLaw Search OS</span>
+            <span>Lexios Search OS</span>
           </div>
         </div>
 

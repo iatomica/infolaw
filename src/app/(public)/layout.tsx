@@ -62,7 +62,7 @@ export default function PublicLayout({ children }: { children: React.ReactNode }
           {/* Brand */}
           <Link href="/" className="flex items-center gap-3">
             <div className="w-10 h-10 rounded-xl bg-obsidian-950 text-amber-500 flex items-center justify-center font-serif text-lg font-bold shadow-xs">
-              IL
+              LX
             </div>
             <div>
               <span className="font-serif tracking-[0.2em] text-slate-950 font-black text-base block">
@@ -121,7 +121,7 @@ export default function PublicLayout({ children }: { children: React.ReactNode }
           <div className="space-y-4">
             <div className="flex items-center gap-3">
               <div className="w-8 h-8 rounded-lg bg-amber-500/10 border border-amber-500/30 text-amber-500 flex items-center justify-center font-serif font-bold text-sm">
-                IL
+                LX
               </div>
               <span className="font-serif tracking-widest text-white font-bold text-sm">
                 FERRARO & ASOCIADOS

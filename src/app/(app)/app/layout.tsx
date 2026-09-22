@@ -72,10 +72,10 @@ export default function AppLayout({ children }: { children: React.ReactNode }) {
           <div className="p-5 border-b border-slate-800/80 flex items-center justify-between">
             <Link href="/app/dashboard" className="flex items-center gap-2.5">
               <div className="w-8 h-8 rounded-lg bg-amber-500/10 border border-amber-500/30 flex items-center justify-center font-serif text-amber-500 font-bold text-base shadow-xs">
-                IL
+                LX
               </div>
               <div>
-                <span className="font-serif tracking-widest text-slate-100 font-bold text-sm block">INFOLAW</span>
+                <span className="font-serif tracking-widest text-slate-100 font-bold text-sm block">LEXIOS</span>
                 <span className="text-[10px] text-slate-400 font-medium tracking-tight block">Ferraro & Asociados</span>
               </div>
             </Link>

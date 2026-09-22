@@ -1,5 +1,5 @@
 # ==========================================
-# Multi-stage Dockerfile for Next.js (InfoLaw)
+# Multi-stage Dockerfile for Next.js (Lexios)
 # ==========================================
 
 # Stage 1: Install dependencies

@@ -44,7 +44,7 @@ export const RoleSwitcherBar: React.FC = () => {
         {/* Left: Brand & Section Navigation */}
         <div className="flex items-center gap-3 w-full md:w-auto justify-between md:justify-start">
           <div className="flex items-center gap-2">
-            <span className="font-serif tracking-widest text-amber-500 font-bold text-sm">INFOLAW</span>
+            <span className="font-serif tracking-widest text-amber-500 font-bold text-sm">LEXIOS</span>
             <span className="text-slate-600">|</span>
             <span className="text-slate-400 font-medium hidden sm:inline">Ferraro & Asociados</span>
           </div>
